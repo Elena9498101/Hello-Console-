@@ -1,0 +1,15 @@
+C:\Users\Елена\Examples\Ex003_HelloSum\bin\Debug\net6.0\Ex003_HelloSum.exe
+C:\Users\Елена\Examples\Ex003_HelloSum\bin\Debug\net6.0\Ex003_HelloSum.deps.json
+C:\Users\Елена\Examples\Ex003_HelloSum\bin\Debug\net6.0\Ex003_HelloSum.runtimeconfig.json
+C:\Users\Елена\Examples\Ex003_HelloSum\bin\Debug\net6.0\Ex003_HelloSum.dll
+C:\Users\Елена\Examples\Ex003_HelloSum\bin\Debug\net6.0\Ex003_HelloSum.pdb
+C:\Users\Елена\Examples\Ex003_HelloSum\obj\Debug\net6.0\Ex003_HelloSum.csproj.AssemblyReference.cache
+C:\Users\Елена\Examples\Ex003_HelloSum\obj\Debug\net6.0\Ex003_HelloSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Examples\Ex003_HelloSum\obj\Debug\net6.0\Ex003_HelloSum.AssemblyInfoInputs.cache
+C:\Users\Елена\Examples\Ex003_HelloSum\obj\Debug\net6.0\Ex003_HelloSum.AssemblyInfo.cs
+C:\Users\Елена\Examples\Ex003_HelloSum\obj\Debug\net6.0\Ex003_HelloSum.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Examples\Ex003_HelloSum\obj\Debug\net6.0\Ex003_HelloSum.dll
+C:\Users\Елена\Examples\Ex003_HelloSum\obj\Debug\net6.0\refint\Ex003_HelloSum.dll
+C:\Users\Елена\Examples\Ex003_HelloSum\obj\Debug\net6.0\Ex003_HelloSum.pdb
+C:\Users\Елена\Examples\Ex003_HelloSum\obj\Debug\net6.0\Ex003_HelloSum.genruntimeconfig.cache
+C:\Users\Елена\Examples\Ex003_HelloSum\obj\Debug\net6.0\ref\Ex003_HelloSum.dll
