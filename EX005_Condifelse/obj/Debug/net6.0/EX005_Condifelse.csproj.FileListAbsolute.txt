@@ -1,0 +1,15 @@
+C:\Users\Елена\Examples\EX005_Condifelse\obj\Debug\net6.0\EX005_Condifelse.csproj.AssemblyReference.cache
+C:\Users\Елена\Examples\EX005_Condifelse\obj\Debug\net6.0\EX005_Condifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Examples\EX005_Condifelse\obj\Debug\net6.0\EX005_Condifelse.AssemblyInfoInputs.cache
+C:\Users\Елена\Examples\EX005_Condifelse\obj\Debug\net6.0\EX005_Condifelse.AssemblyInfo.cs
+C:\Users\Елена\Examples\EX005_Condifelse\obj\Debug\net6.0\EX005_Condifelse.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Examples\EX005_Condifelse\bin\Debug\net6.0\EX005_Condifelse.exe
+C:\Users\Елена\Examples\EX005_Condifelse\bin\Debug\net6.0\EX005_Condifelse.deps.json
+C:\Users\Елена\Examples\EX005_Condifelse\bin\Debug\net6.0\EX005_Condifelse.runtimeconfig.json
+C:\Users\Елена\Examples\EX005_Condifelse\bin\Debug\net6.0\EX005_Condifelse.dll
+C:\Users\Елена\Examples\EX005_Condifelse\bin\Debug\net6.0\EX005_Condifelse.pdb
+C:\Users\Елена\Examples\EX005_Condifelse\obj\Debug\net6.0\EX005_Condifelse.dll
+C:\Users\Елена\Examples\EX005_Condifelse\obj\Debug\net6.0\refint\EX005_Condifelse.dll
+C:\Users\Елена\Examples\EX005_Condifelse\obj\Debug\net6.0\EX005_Condifelse.pdb
+C:\Users\Елена\Examples\EX005_Condifelse\obj\Debug\net6.0\EX005_Condifelse.genruntimeconfig.cache
+C:\Users\Елена\Examples\EX005_Condifelse\obj\Debug\net6.0\ref\EX005_Condifelse.dll
